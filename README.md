@@ -1,3 +1,14 @@
+# Greetings
+
+In this project I created a web quiz with the aim of trying out React Typescript.
+
+## Sources:
+
+This learning resource is found on the freecodecamp youtube channel.
+
+API: https://opentdb.com/api_config.php
+Backgorund image by adrian-infernus on unsplash
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
